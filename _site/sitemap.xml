@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/about/index.html</loc>
+            <loc>localhost:3000/about/index.html</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/css/</loc>
+            <loc>localhost:3000/category/css/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/dev/</loc>
+            <loc>localhost:3000/category/dev/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/feed.xml</loc>
+            <loc>localhost:3000/feed.xml</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/html/</loc>
+            <loc>localhost:3000/category/html/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/</loc>
+            <loc>localhost:3000/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/jekyll/</loc>
+            <loc>localhost:3000/category/jekyll/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/js/</loc>
+            <loc>localhost:3000/category/js/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/misc/</loc>
+            <loc>localhost:3000/category/misc/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/search.json</loc>
+            <loc>localhost:3000/search.json</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/series/index.html</loc>
+            <loc>localhost:3000/series/index.html</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/sitemap.xml</loc>
+            <loc>localhost:3000/sitemap.xml</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/category/svg/</loc>
+            <loc>localhost:3000/category/svg/</loc>
         </url>
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/tags/index.html</loc>
+            <loc>localhost:3000/tags/index.html</loc>
         </url>
     
     
         <url>
-            <loc>https://willianjusten.com.br/homepage/how-to-use/</loc>
+            <loc>localhost:3000/how-to-use/</loc>
         </url>
   
         <url>
-            <loc>https://willianjusten.com.br/homepage/welcome-to-jekyll/</loc>
+            <loc>localhost:3000/welcome-to-jekyll/</loc>
         </url>
   
         <url>
-            <loc>https://willianjusten.com.br/homepage/analisando-seu-codigo-js-com-linter/</loc>
+            <loc>localhost:3000/analisando-seu-codigo-js-com-linter/</loc>
         </url>
   
         <url>
-            <loc>https://willianjusten.com.br/homepage/social-meta-tags/</loc>
+            <loc>localhost:3000/social-meta-tags/</loc>
         </url>
   
         <url>
-            <loc>https://willianjusten.com.br/homepage/por-que-usar-svg/</loc>
+            <loc>localhost:3000/por-que-usar-svg/</loc>
         </url>
   
         <url>
-            <loc>https://willianjusten.com.br/homepage/dica-rapida-1/</loc>
+            <loc>localhost:3000/dica-rapida-1/</loc>
         </url>
   
 </urlset>
